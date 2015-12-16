@@ -1,2 +1,6 @@
 # Requests
-A requests repository.
+req.py是第一个作业
+req2.py是第二个
+
+req2.py说明：
+为了简化代码，方便操作，将输入书名改为了输入书名对应的序号，这样可以避免用raw_input输入中文书名后与相应的书本匹配时出现的转码编码问题。
